@@ -1,5 +1,5 @@
 **Full Stack Software Developer - Coursera.** 
-Here youll find a collection of repos I worked on related to IBM Full Stack Developer Course from coursera. [https://www.coursera.org/]
+Here youll find Archived IBM Full Stack Development coursework (projects + exercises) from earlier study; current focus is AI Engineering and software development. [https://www.coursera.org/]
 
 **Repo Work**: Benjamin Hunt
 
